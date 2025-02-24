@@ -5,3 +5,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know Vi*****'s S***et 😎
 <!--I shall always be late-->
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
